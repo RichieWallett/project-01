@@ -1,15 +1,18 @@
 ###Data
 
-Name
-Surname
+First Name
+Last Surname
 Age
 Attitude
 More ideas
 1.1: Introduction - Git and GitHub for Poets
 t.ly/yDNeG
 
+This is the second video on [YouTube](t.ly/qNx3J)
+
 ###TERMS
 
-+ Repository 'Repo' consider this is project
-+ Commit is save
-+ Commit Hash long unique identifier 81469876348756014t34
++ Repository 'Repo' consider this is project holder
++ Commit: is save (I can add a decriptor note of what I did)
++ Commit Hash: long unique identifier 81469876348756014t34
++ Branch: This is the branch version off the master. It's a copy of it with all the orginal items, but I can change it without damaging the master.
