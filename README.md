@@ -1,7 +1,5 @@
 # Project-01
 
----
-
 ### Dan Shiffman's Guide to GitHub
 
 **GIT** is Version Control Software
