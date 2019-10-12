@@ -1,3 +1,5 @@
+###Data
+
 Name
 Surname
 Age
@@ -6,7 +8,7 @@ More ideas
 1.1: Introduction - Git and GitHub for Poets
 t.ly/yDNeG
 
-TERMS
+###TERMS
 
 + Repository 'Repo' consider this is project
 + Commit is save
