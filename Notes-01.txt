@@ -1,12 +1,14 @@
 ###Data
 
-First Name
-Last Surname
-Age
-Attitude
-More ideas
-1.1: Introduction - Git and GitHub for Poets
-t.ly/yDNeG
+First Name: Dan
+Last Name: Shiffman 
+Attitude: Everyone welcome
+More ideas: Yes please
+
+###Tutorial on YouTube
+1.1: Introduction - Git and GitHub for Poets t.ly/yDNeG
+1.2: 
+1.3: Forks and Pull Requests - Git and GitHub for Poetst.ly/PBvz8
 
 This is the second video on [YouTube](t.ly/qNx3J)
 
@@ -20,4 +22,5 @@ This is the second video on [YouTube](t.ly/qNx3J)
 + Pull Request 'please take my changes into Master' (pull something in from somebody) [Compare & Pull Request] button to bring them back to the master.
 + Pushing to somebody 'please look at and make chanhes to this'
 + Merge: 
++ Fork a repo: Direct copy someone elses repo so I can edit without messing this up.
 
