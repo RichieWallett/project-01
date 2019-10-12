@@ -17,7 +17,7 @@ This is the second video on [YouTube](t.ly/qNx3J)
 + Commit Hash: long unique identifier 81469876348756014t34
 + Branch: This is the branch version off the master. It's a copy of it with all the orginal items, but I can change it without damaging the master.
 + Insights / Network visualises my commits in branches
-+ Pull Request 'please take my changes into Master' (pull something in from somebody)
++ Pull Request 'please take my changes into Master' (pull something in from somebody) [Compare & Pull Request] button to bring them back to the master.
 + Pushing to somebody 'please look at and make chanhes to this'
 + Merge: 
 
