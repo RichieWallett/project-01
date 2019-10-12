@@ -64,7 +64,7 @@ function fancyAlert(arg) {
 
 * Unorder list item
     - Four spaces first nested list item
-    - Second nested list item `come inline code here`
+    - Second nested list item `some inline code here`
 
 1. First list item
     - First nested list item
