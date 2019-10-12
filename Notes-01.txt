@@ -1,7 +1,15 @@
 ###Dan Shiffman's Guide to GitHub
 
+
 **GIT** is Version Control Software
 **GitHub** that uses this GIT but as Social Coding with others.
+
+Hey this is code not Markdown!
+
+First Name: Dan
+Last Name: Shiffman 
+Attitude: Everyone welcome
+More ideas: Yes please
 
 ---
 
@@ -34,6 +42,10 @@ https://github.com/RichieWallett/project-01
 + Merge: is final and commits back to the master
 + [New pull request]: This notifies the OWNER! So don't
 + Issues Tab: is a place to leave a comment about a project.
++ Pull Request 'please take my changes into Master' (pull something in from somebody) [Compare & Pull Request] button to bring them back to the master.
++ Pushing to somebody 'please look at and make chanhes to this'
++ Merge: 
++ Fork a repo: Direct copy someone elses repo so I can edit without messing this up.
 
 ---
 
