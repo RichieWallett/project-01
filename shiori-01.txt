@@ -2,3 +2,5 @@ Name
 Surname
 Age
 Attitude
+1.1: Introduction - Git and GitHub for Poets
+t.ly/yDNeG
