@@ -41,7 +41,8 @@ https://github.com/RichieWallett/project-01
 * Merge: is final and commits back to the master
 * [New pull request]: This notifies the OWNER! So don't
 * Issues Tab: is a place to leave a comment about a project.
-* Clone is a local copy of it. You are **Pulling** and downloaded it.
+* Clone is a local copy of it but you can Push/Commit it back up, via the desktop app of Terminal.
+* Download you are **Pulling** and downloaded it.
 
 ---
 
@@ -53,6 +54,7 @@ https://github.com/RichieWallett/project-01
 - [ ] this is an incomplete item
 
 ```javascript
+// This is called 'fenced' code
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
