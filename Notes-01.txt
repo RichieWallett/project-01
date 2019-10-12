@@ -1,4 +1,4 @@
-###Data
+###Data more
 
 First Name
 Last Surname
@@ -10,14 +10,16 @@ t.ly/yDNeG
 
 This is the second video on [YouTube](t.ly/qNx3J)
 
+---
+
 ###TERMS
 
-+ Repository 'Repo' consider this is project holder
-+ Commit: is save (I can add a decriptor note of what I did)
-+ Commit Hash: long unique identifier 81469876348756014t34
++ Repository 'Repo' consider this is project
++ Commit is save
++ Commit Hash long unique identifier 81469876348756014t34
 + Branch: This is the branch version off the master. It's a copy of it with all the orginal items, but I can change it without damaging the master.
 + Insights / Network visualises my commits in branches
-+ Pull Request 'please take my changes into Master' (pull something in from somebody) [Compare & Pull Request] button to bring them back to the master.
++ Pull Request 'please take my changes into Master' (pull something in from somebody) [Compare & Pull Request] button to bring them back to the master. Write a note of what you did, then press [Create pull request] button. Finally to complete this [Merge pull request]
 + Pushing to somebody 'please look at and make chanhes to this'
-+ Merge: 
++ Merge: is final and commits back to the master
 
