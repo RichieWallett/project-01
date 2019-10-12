@@ -11,6 +11,7 @@ Here is the GitHub Markdown [notation](https://help.github.com/en/articles/basic
 ---
 
 **Watch Dan Shiffman explain GitHub**
+
 1.1: Introduction - Git and GitHub for Poets [YouTube](t.ly/qNx3J)
 
 1.2: Branches - Git and GitHub for Poets [YouTube](t.ly/qNx3J)
