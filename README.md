@@ -1,5 +1,5 @@
 # Project-01
-###Dan Shiffman's Guide to GitHub
+### Dan Shiffman's Guide to GitHub
 
 **GIT** is Version Control Software
 **GitHub** that uses this GIT but as Social Coding with others.
@@ -18,12 +18,12 @@ Here is the GitHub Markdown [notation](https://help.github.com/en/articles/basic
 
 ---
 
-###My Notes
+### My Notes
 https://github.com/RichieWallett/project-01
 
 ---
 
-###TERMS
+### TERMS
 
 + Repository 'Repo' consider this is project
 + Commit is save
@@ -38,7 +38,7 @@ https://github.com/RichieWallett/project-01
 
 ---
 
-###GitHub Flavored Markdown
+### GitHub Flavored Markdown
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
