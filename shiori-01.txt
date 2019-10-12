@@ -5,3 +5,9 @@ Attitude
 More ideas
 1.1: Introduction - Git and GitHub for Poets
 t.ly/yDNeG
+
+TERMS
+
++ Repository 'Repo' consider this is project
++ Commit is save
++ Commit Hash long unique identifier 81469876348756014t34
